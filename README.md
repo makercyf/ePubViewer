@@ -1,9 +1,7 @@
 # ePubViewer
-
-## About
 A web-based ebook viewer.
 
-<a href="https://pgaskin.net/ePubViewer">Try it out now.</a>
+[Try it out now.](https://makercyf.github.io/ePubViewer/)
 
 ## Features
 - Modern, responsive UI
@@ -12,8 +10,7 @@ A web-based ebook viewer.
 - About view
 - Go to page
 - Location numbers
-- More
 
-## Compatibility
-
-Tested with Edge 17+, Mozilla Firefox 50+, Google Chrome 50+, Safari 10+, and Opera 40+. Does not work on Internet Explorer.
+## Modification from the original repository
+- Remove tracker
+- Support various methods to open a book
