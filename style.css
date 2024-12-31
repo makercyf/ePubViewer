@@ -129,6 +129,11 @@
     margin-bottom: 20px;
 }
 
+.app .book .empty-wrapper .empty .description {
+    font-size: 19px;
+    font-weight: 100;
+}
+
 .app .book .empty-wrapper .empty .big-button,
 .app .book .empty-wrapper .empty .big-button:link,
 .app .book .empty-wrapper .empty .big-button:visited {
